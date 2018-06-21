@@ -1,18 +1,24 @@
 .header{
-	background-color: #ccc;
-	position: relative;
-	width: 100%;
+	background-image: url('http://i557.photobucket.com/albums/ss15/Abarnard13/React%20click_zpsgozndxim.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
 }
 
 h1{
 	text-align: center;
-	font-size: 90px;
+	font-size: 70px;
 	font-weight: bold;
 	padding: 90px 0 20px 0; 
+	color:  #c6d9ec;
+	font-family: 'Source Sans Pro', sans-serif;
+	;
 }
 
 h2{
 	text-align: center;
 	font-size: 25px;
 	padding-bottom: 40px;
+	color:wheat;
+	font-family: 'Source Sans Pro', sans-serif;
 }

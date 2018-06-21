@@ -5,6 +5,7 @@
 
 .itemLeft {
   width: 15%;
+
 }
 
 .itemCenter {
@@ -16,7 +17,7 @@
 }
 
 .navbar {
-  background: #490549;
+  background:  #c6d9ec;
   box-shadow: 0 3px 6px #999, 0 3px 6px #999;
 }
 
