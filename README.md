@@ -27,8 +27,7 @@ This is a memory game using React. The application's UI is split into four compo
 * CSS
 
 ## Website
-
-
+This site was built using [GitHub Pages](https://ashleighbarnard.github.io/react-game/).
 
 ## Copyright
 
