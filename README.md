@@ -28,8 +28,8 @@ This is a memory game using React. The application's UI is split into four compo
 
 ## Website
 
-https://kimgomizzou.github.io/Clicky-Game/
+
 
 ## Copyright
 
-Kim Kaufman © 2017.  All rights reserved.
+Ashleigh Barnard © 2018.  All rights reserved.
