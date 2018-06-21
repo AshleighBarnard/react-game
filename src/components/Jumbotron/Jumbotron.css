@@ -1,24 +1,31 @@
 .header{
 	background-image: url('http://i557.photobucket.com/albums/ss15/Abarnard13/React%20click_zpsgozndxim.png');
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-position: center;
+	padding: 0;
+	align-content: center;
+	float: center;
+	padding-bottom: 15px;
+	padding-top: 15px;
+
 	
 }
 
 h1{
 	text-align: center;
-	font-size: 70px;
+	font-size: 80px;
 	font-weight: bold;
 	padding: 90px 0 20px 0; 
 	color:  #c6d9ec;
 	font-family: 'Source Sans Pro', sans-serif;
+	visibility: hidden;
 	;
 }
 
 h2{
 	text-align: center;
-	font-size: 25px;
-	padding-bottom: 40px;
-	color:wheat;
+	font-size: 15px;
+	padding-bottom: 5px;
+	color:black;
 	font-family: 'Source Sans Pro', sans-serif;
 }
